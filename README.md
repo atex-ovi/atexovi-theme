@@ -116,7 +116,7 @@ bash ~/r.sh
 * [Bash](https://www.gnu.org/software/bash/) – shell scripting.
 * [Zsh](https://www.zsh.org/) – modern shell for prompt customization.
 * [Go](https://golang.org/) – programming language for additional tools.
-* All open-source communities are supportive.
+* All open-source communities supporting terminal customization.
 
 <br>
 
