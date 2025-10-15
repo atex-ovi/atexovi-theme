@@ -82,6 +82,7 @@ Clone the repository and run the installer:
 git clone https://github.com/atex-ovi/atexovi-theme.git
 cd atexovi-theme
 bash i.sh
+
 ```
 
 **Note:** It is recommended to run this on a fresh Termux installation.
