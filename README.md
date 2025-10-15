@@ -1,14 +1,39 @@
 # Atex Ovi Theme for Termux
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Shell-zsh-339933?style=for-the-badge&logo=gnu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-5.2-339933?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/github/stars/atex-ovi/atexovi-theme?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/github/forks/atex-ovi/atexovi-theme?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Donate-Saweria-FFA726?style=for-the-badge&logo=ko-fi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Contact-Telegram-29A9EB?style=for-the-badge&logo=telegram&logoColor=white" />
-  <img src="https://img.shields.io/badge/Follow-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <!-- 🔹 Shell & Bash -->
+  <a href="https://www.zsh.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Shell-zsh-339933?style=for-the-badge&logo=gnu&logoColor=white" alt="Shell zsh" />
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="https://img.shields.io/badge/Bash-5.2-339933?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash 5.2" />
+  </a>
+
+  <!-- 🔹 GitHub Stats -->
+  <a href="https://github.com/atex-ovi/atexovi-theme/stargazers" target="_blank">
+    <img src="https://img.shields.io/github/stars/atex-ovi/atexovi-theme?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stars" />
+  </a>
+  <a href="https://github.com/atex-ovi/atexovi-theme/network/members" target="_blank">
+    <img src="https://img.shields.io/github/forks/atex-ovi/atexovi-theme?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Forks" />
+  </a>
+
+  <!-- 🔹 License -->
+  <a href="https://github.com/atex-ovi/atexovi-theme/blob/main/LICENSE" target="_blank">
+    <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="License MIT" />
+  </a>
+
+  <!-- 🔹 Donate -->
+  <a href="https://saweria.co/atexovi" target="_blank">
+    <img src="https://img.shields.io/badge/Donate-Saweria-FFA726?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Donate via Saweria" />
+  </a>
+
+  <!-- 🔹 Contact -->
+  <a href="https://t.me/atexovi" target="_blank">
+    <img src="https://img.shields.io/badge/Contact-Telegram-29A9EB?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Contact" />
+  </a>
+  <a href="https://facebook.com/atex.ovi" target="_blank">
+    <img src="https://img.shields.io/badge/Follow-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Follow" />
+  </a>
 </p>
 
 ![Atex Ovi Logo](https://raw.githubusercontent.com/atex-ovi/img-assets/main/img-theme.jpg)
@@ -70,7 +95,7 @@ bash ~/r.sh
 * zsh-autocomplete
 * bgnotify
 * zsh-fzf-history-search
-  
+
 <br>
 
 ## Special Thanks
