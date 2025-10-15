@@ -41,13 +41,13 @@ Atex Ovi Theme is a one-shot installer for Termux, providing a modern, colorful,
 
 ## Screenshot
 **1. Startup Display**  
-<img src="https://raw.githubusercontent.com/atex-ovi/img-assets/main/startup.jpg" width="500px">
+<img src="https://raw.githubusercontent.com/atex-ovi/img-assets/main/startup.jpg" width="400px">
 
 **2. ls-logo**  
-<img src="https://raw.githubusercontent.com/atex-ovi/img-assets/main/ls.jpg" width="500px">
+<img src="https://raw.githubusercontent.com/atex-ovi/img-assets/main/ls.jpg" width="400px">
 
 **3. Auto Suggestion**  
-<img src="https://raw.githubusercontent.com/atex-ovi/img-assets/main/suggest.jpg" width="500px">
+<img src="https://raw.githubusercontent.com/atex-ovi/img-assets/main/suggest.jpg" width="400px">
 
 <br>
 
