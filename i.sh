@@ -533,7 +533,7 @@ print_center_table() {
     "│$(printf '%-*s' $COL1 " SECTION")│$(printf '%-*s' $COL2 " DESCRIPTION")│"
     "├$(printf '─%.0s' $(seq 1 $COL1))┼$(printf '─%.0s' $(seq 1 $COL2))┤"
     "│$(printf '%-*s' $COL1 " Theme Path")│$(printf '%-*s' $COL2 " $BASE")│"
-    "│$(printf '%-*s' $COL1 " Restore Command")│$(printf '%-*s' $COL2 " bash r.sh")│"
+    "│$(printf '%-*s' $COL1 " Restore Command")│$(printf '%-*s' $COL2 " bash ~/r.sh")│"
     "│$(printf '%-*s' $COL1 " Apply Changes")│$(printf '%-*s' $COL2 " Close and reopen Termux")│"
     "└$(printf '─%.0s' $(seq 1 $COL1))┴$(printf '─%.0s' $(seq 1 $COL2))┘"
   )
