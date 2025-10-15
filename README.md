@@ -8,26 +8,22 @@
   <a href="https://www.gnu.org/software/bash/" target="_blank">
     <img src="https://img.shields.io/badge/Bash-5.2-339933?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash 5.2" />
   </a>
-
-  <!-- 🔹 GitHub Stats -->
   <a href="https://github.com/atex-ovi/atexovi-theme/stargazers" target="_blank">
     <img src="https://img.shields.io/github/stars/atex-ovi/atexovi-theme?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stars" />
   </a>
   <a href="https://github.com/atex-ovi/atexovi-theme/network/members" target="_blank">
     <img src="https://img.shields.io/github/forks/atex-ovi/atexovi-theme?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Forks" />
   </a>
-
-  <!-- 🔹 License -->
   <a href="https://github.com/atex-ovi/atexovi-theme/blob/main/LICENSE" target="_blank">
     <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="License MIT" />
   </a>
+</p>
 
-  <!-- 🔹 Donate -->
+<p align="center">
+  <!-- 🔹 Donate & Contact -->
   <a href="https://saweria.co/atexovi" target="_blank">
     <img src="https://img.shields.io/badge/Donate-Saweria-FFA726?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Donate via Saweria" />
   </a>
-
-  <!-- 🔹 Contact -->
   <a href="https://t.me/atexovi" target="_blank">
     <img src="https://img.shields.io/badge/Contact-Telegram-29A9EB?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Contact" />
   </a>
