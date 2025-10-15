@@ -9,10 +9,10 @@
     <img src="https://img.shields.io/badge/Bash-5.2-339933?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash 5.2" />
   </a>
   <a href="https://github.com/atex-ovi/atexovi-theme/stargazers" target="_blank">
-    <img src="https://img.shields.io/github/stars/atex-ovi/atexovi-theme?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stars" />
+    <img src="https://img.shields.io/github/stars/atex-ovi/atexovi-theme?style=for-the-badge&logo=github&labelColor=181717&color=EDEDED&logoColor=white" alt="GitHub Stars" />
   </a>
   <a href="https://github.com/atex-ovi/atexovi-theme/network/members" target="_blank">
-    <img src="https://img.shields.io/github/forks/atex-ovi/atexovi-theme?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Forks" />
+    <img src="https://img.shields.io/github/forks/atex-ovi/atexovi-theme?style=for-the-badge&logo=github&labelColor=181717&color=EDEDED&logoColor=white" alt="GitHub Forks" />
   </a>
   <a href="https://github.com/atex-ovi/atexovi-theme/blob/main/LICENSE" target="_blank">
     <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="License MIT" />
@@ -102,6 +102,12 @@ bash ~/r.sh
 * [Zsh](https://www.zsh.org/) – modern shell for prompt customization.
 * [Go](https://golang.org/) – programming language for additional tools.
 * All open-source communities are supportive.
+
+## License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+
+---
 
 ## License
 
