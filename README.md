@@ -105,7 +105,7 @@ bash ~/r.sh
 
 ## Special Thanks
 
-* [myTermux](https://github.com/username/myTermux) – as inspiration for the look and UI.
+* [myTermux](https://github.com/mayTermux) – as inspiration for the look and UI.
 * [Termux](https://termux.com/) – Android terminal platform.
 * [Bash](https://www.gnu.org/software/bash/) – shell scripting.
 * [Zsh](https://www.zsh.org/) – modern shell for prompt customization.
