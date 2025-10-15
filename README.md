@@ -37,6 +37,8 @@
 
 AtexOvi Theme is a one-shot installer for Termux, providing a modern, colorful, and fully customized terminal UI experience. It includes a sleek ASCII banner, colored prompt, Zsh plugins, custom fonts, and a themed color palette.
 
+<br>
+
 ## Screenshot
 **1. Startup Display**  
 <img src="https://raw.githubusercontent.com/atex-ovi/img-assets/main/startup.jpg" width="400px">
@@ -46,6 +48,7 @@ AtexOvi Theme is a one-shot installer for Termux, providing a modern, colorful, 
 
 **3. Auto Suggestion**  
 <img src="https://raw.githubusercontent.com/atex-ovi/img-assets/main/suggest.jpg" width="400px">
+
 <br>
 
 
@@ -64,6 +67,8 @@ AtexOvi Theme is a one-shot installer for Termux, providing a modern, colorful, 
 * Restore script (`r.sh`) to revert Termux to its default state.
 * Progress bar animations during installation.
 
+<br>
+
 ## Installation
 
 Clone the repository and run the installer:
@@ -76,6 +81,8 @@ bash i.sh
 
 **Note:** It is recommended to run this on a fresh Termux installation.
 
+<br>
+
 ## Restore
 
 If you want to revert to the original Termux setup:
@@ -83,6 +90,8 @@ If you want to revert to the original Termux setup:
 ```bash
 bash ~/r.sh
 ```
+
+<br>
 
 ## Zsh Plugins Installed
 
@@ -103,9 +112,10 @@ bash ~/r.sh
 * [Go](https://golang.org/) – programming language for additional tools.
 * All open-source communities are supportive.
 
+<br>
+
 ## License
 
 [MIT](LICENSE)
 
 ---
-
