@@ -70,6 +70,17 @@ bash ~/r.sh
 * zsh-autocomplete
 * bgnotify
 * zsh-fzf-history-search
+  
+<br>
+
+## Special Thanks
+
+* [myTermux](https://github.com/username/myTermux) – as inspiration for the look and UI.
+* [Termux](https://termux.com/) – Android terminal platform.
+* [Bash](https://www.gnu.org/software/bash/) – shell scripting.
+* [Zsh](https://www.zsh.org/) – modern shell for prompt customization.
+* [Go](https://golang.org/) – programming language for additional tools.
+* All open-source communities are supportive.
 
 ## License
 
