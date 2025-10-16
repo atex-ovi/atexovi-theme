@@ -58,7 +58,13 @@
 
 
 ## Video Tutorial
-> Coming soon!
+Watch the following video tutorial for bot installation steps:
+
+<a href="https://www.facebook.com/share/v/1Amu33Lkaa/">
+<img src="https://raw.githubusercontent.com/atex-ovi/img-assets/main/thumbnail-theme.jpg" width="400"/>
+</a>
+
+Click the image to watch the video.
 
 <br>
 
