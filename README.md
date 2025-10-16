@@ -40,7 +40,7 @@
 
 ## Overview
 
-Atex Ovi Theme is a one-shot installer for Termux, providing a modern, colorful, and fully customized terminal UI experience. It includes a sleek ASCII banner, colored prompt, Zsh plugins, custom fonts, and a themed color palette.
+**Atex Ovi Theme** is a one-shot installer for **[Termux](https://termux.com/)**, providing a modern, colorful, and fully customized terminal UI experience. It includes a sleek ASCII banner, colored prompt, Zsh plugins, custom fonts, and a themed color palette.
 
 <br>
 
