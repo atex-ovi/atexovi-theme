@@ -86,7 +86,8 @@ bash install.sh
 
 ## Restore
 
-If you want to revert to the original Termux setup:
+> [!NOTE]
+> If you want to revert to the original Termux setup, run:
 
 ```bash
 bash ~/restore.sh
