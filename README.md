@@ -102,6 +102,9 @@ bash ~/restore.sh
 * zsh-autocomplete
 * bgnotify
 
+> [!NOTE]
+> These plugins are automatically installed by `install.sh`
+
 <br>
 
 ## Special Thanks
