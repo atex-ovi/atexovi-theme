@@ -15,7 +15,7 @@
 If you discover a security issue in Atexovi Theme, please report it **privately** via the following channels:
 
 [![Telegram](https://img.shields.io/badge/Telegram-29A9EB?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/atexovi)  
-[![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://m.me/atex.ovi)
+[![Messenger](https://img.shields.io/badge/Messenger-0084FF?style=for-the-badge&logo=messenger&logoColor=white)](https://m.me/atex.ovi)
 
 Include as much detail as possible:
 
