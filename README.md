@@ -79,7 +79,7 @@ bash install.sh
 
 ```
 
-> [!NOTE]
+> [!TIP]
 > It is recommended to run this on a fresh Termux installation.
 
 <br>
