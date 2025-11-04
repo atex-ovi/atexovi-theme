@@ -28,7 +28,6 @@ if [ ! -z "${ZSH_VERSION-}" ]; then
     zstyle ':completion:*' menu select
     bindkey '^I' expand-or-complete
 
-    # FZF integration
     if command -v fzf >/dev/null 2>&1; then
         FZF_KEYBINDINGS="$PREFIX/share/doc/fzf/examples/key-bindings.zsh"
         [ -f "$FZF_KEYBINDINGS" ] && source "$FZF_KEYBINDINGS"
