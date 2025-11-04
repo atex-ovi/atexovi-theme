@@ -1,8 +1,5 @@
 #!/usr/bin/env bash
-# =====================================================
 # i7-restore.sh — Build 7: Generate restore.sh safely
-# Atexovi System Recovery Module (clean version)
-# =====================================================
 
 set -euo pipefail
 
