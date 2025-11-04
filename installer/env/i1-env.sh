@@ -1,7 +1,5 @@
 #!/usr/bin/env bash
 # i1-env.sh — Environment setup & banner
-# Part of AtexOvi Themes installer
-
 BASE="$HOME/atexovi-theme"
 LOG_DIR="$HOME/.cache/atexovi"
 FIGLET_LOG="$LOG_DIR/figlet.log"
@@ -20,7 +18,6 @@ done
 wait "$pid"
 rc=$?
 
-# --- Display banner ---
 clear
 if [ $rc -eq 0 ]; then
     RED="\033[1;31m"
@@ -32,7 +29,7 @@ if [ $rc -eq 0 ]; then
     RESET="\033[0m"
     cols=$(tput cols)
 
-    figlet -f standard "Atex - Ovi" | \
+    figlet -f slant "Atexovi - Theme" | \
     awk -v width="$cols" -v r="$RED" -v g="$GREEN" -v y="$YELLOW" \
         -v b="$BLUE" -v m="$MAGENTA" -v c="$CYAN" -v reset="$RESET" \
     '{
