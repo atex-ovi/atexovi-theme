@@ -32,7 +32,7 @@ print_center_table() {
     "│$(printf '%-*s' $COL1 " SECTION")│$(printf '%-*s' $COL2 " DESCRIPTION")│"
     "├$(printf '─%.0s' $(seq 1 $COL1))┼$(printf '─%.0s' $(seq 1 $COL2))┤"
     "│$(printf '%-*s' $COL1 " Theme Path")│$(printf '%-*s' $COL2 " $BASE")│"
-    "│$(printf '%-*s' $COL1 " Restore Command")│$(printf '%-*s' $COL2 " bash restore.sh")│"
+    "│$(printf '%-*s' $COL1 " Restore Command")│$(printf '%-*s' $COL2 " bash ~/restore.sh")│"
     "│$(printf '%-*s' $COL1 " Apply Changes")│$(printf '%-*s' $COL2 " Close and reopen Termux")│"
     "└$(printf '─%.0s' $(seq 1 $COL1))┴$(printf '─%.0s' $(seq 1 $COL2))┘"
   )
@@ -42,13 +42,13 @@ print_center_table() {
 }
 
 term_width=$(tput cols 2>/dev/null || echo 80)
-title="WELCOME TO YOUR NEW ATEX-OVI THEMES"
+title="WELCOME TO YOUR NEW ATEX-OVI THEME"
 pad=$(( (term_width - ${#title})/2 ))
 printf "%*s${CYAN}%s${RESET}\n\n" "$pad" "" "$title"
 
 print_center_table
 
-footer1="Your Termux is ready with the new Atex-Ovi themes!"
+footer1="Your Termux is ready with the new Atex-Ovi theme!"
 footer2="Have fun customizing and exploring!"
 pad=$(( (term_width - ${#footer1})/2 ))
 printf "%*s${GREEN}%s${RESET}\n" "$pad" "" "$footer1"
