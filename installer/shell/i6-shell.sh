@@ -22,7 +22,6 @@ clear
 export PATH="$PREFIX/bin:$HOME/.local/bin:$PATH"
 export TERM=xterm-256color
 
-# Enable Zsh Completion safely
 if [ ! -z "${ZSH_VERSION-}" ]; then
     autoload -Uz compinit
     compinit
@@ -34,15 +33,13 @@ if [ ! -z "${ZSH_VERSION-}" ]; then
         FZF_KEYBINDINGS="$PREFIX/share/doc/fzf/examples/key-bindings.zsh"
         [ -f "$FZF_KEYBINDINGS" ] && source "$FZF_KEYBINDINGS"
     fi
-
-    # Plugins
+    
     PLUGINS_DIR="$HOME/atexovi-theme/plugins"
     [ -d "$PLUGINS_DIR/zsh-autocomplete" ] && source "$PLUGINS_DIR/zsh-autocomplete/zsh-autocomplete.plugin.zsh"
     for plugin in zsh-autosuggestions bgnotify zsh-fzf-history-search zsh-syntax-highlighting; do
         [ -d "$PLUGINS_DIR/$plugin" ] && source "$PLUGINS_DIR/$plugin/$plugin.zsh" 2>/dev/null || true
     done
 
-    # Aliases
     alias c='clear'
     alias q='exit'
     alias sd='cd /sdcard'
@@ -51,7 +48,6 @@ if [ ! -z "${ZSH_VERSION-}" ]; then
     alias pacupd='pkg update'
     alias neo='neofetch'
 
-    # Modern ls alias
     if command -v els >/dev/null 2>&1; then
         alias ls='els'
         alias ll='els -l'
@@ -60,11 +56,9 @@ if [ ! -z "${ZSH_VERSION-}" ]; then
         alias ll='ls -la --color=auto'
     fi
 
-    # Prompt
     PROMPT='%F{white}   ❯_%f '
 fi
 
-# Banner (runs only when opening Zsh)
 RXFETCH_SH="$HOME/atexovi-theme/themes/banner.sh"
 [ -x "$RXFETCH_SH" ] && source "$RXFETCH_SH"
 EOF
