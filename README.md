@@ -39,8 +39,6 @@
 </p>
 
 <br>
-<hr style="border: 0.5px solid #444;">
-<br>
 
 ![Atex Ovi Logo](https://raw.githubusercontent.com/atex-ovi/img-assets/main/img-theme.jpg)
 
