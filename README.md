@@ -1,4 +1,7 @@
-# Atex Ovi Theme for Termux
+<h1 align="center" style="font-size:72px;">
+  Atex Ovi Theme for Termux
+</h1>
+<br>
 
 <p align="center">
   <!-- 🔹 Shell & Bash -->
