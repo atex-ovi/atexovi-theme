@@ -123,7 +123,7 @@ bash ~/restore.sh
 ## Support & Donations
 If you find this project useful, consider supporting the development:
 
-[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://saweria.co/atexovi)
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/atexovi)
 
 <br>
 
